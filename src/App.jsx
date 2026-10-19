@@ -502,7 +502,7 @@ function InvitationPage() {
           <SectionTitle
             eyebrow="Digital Envelope"
             title="Amplop Digital"
-            description="Ucapan kebahagiaan dan bantuan dapat diberikan melalui rekening atau e-wallet."
+            description="Ucapan kebahagiaan dan bantuan dapat diberikan melalui rekening."
           />
 
           <div className="mt-12 grid gap-8 lg:grid-cols-2">
